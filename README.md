@@ -3,7 +3,9 @@
 To run CrimeWalks:
 
 cd Week-12-Group-Project
+
 npm install
+
 npm start
 
 open a new tab in your Terminal
